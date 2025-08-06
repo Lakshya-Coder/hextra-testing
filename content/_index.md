@@ -1,9 +1,9 @@
 ---
-title: My Site
+title: Minimalist config, by Lakshya Seth
 toc: false
 ---
 
-This is the landing page.
+This is the documentation of config for i3wm setup.
 
 ## Explore
 
