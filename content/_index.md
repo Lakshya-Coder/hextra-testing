@@ -9,14 +9,6 @@ This is the documentation of config for i3wm setup.
 > This is the minimalist linux steup, which increases your productivity. And it's fun to use btw.
 
 ![landscape](images/setup.png)
-{{< figure
-  src="/images/setup.png"
-  alt="A photograph of Zion National Park"
-  link="https://www.nps.gov/zion/index.htm"
-  caption="Zion National Park"
-  class="ma0 w-75"
->}}
-
 
 ## Explore
 
