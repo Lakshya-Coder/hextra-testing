@@ -18,14 +18,14 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
+    - name: Installation
+      pageRef: /installation
       weight: 1
     - name: About
       pageRef: /about
       weight: 2
     - name: Contact ↗
-      url: "https://github.com/imfing"
+      url: "https://www.linkedin.com/in/lakshyaseth7089/"
       weight: 3
     - name: Search
       weight: 4
@@ -33,14 +33,9 @@ menu:
         type: search
     - name: GitHub
       weight: 5
-      url: "https://github.com/imfing/hextra-starter-template"
+      url: "http://github.com/Lakshya-Coder/i3-config/"
       params:
         icon: github
-    - name: Twitter
-      weight: 6
-      url: "https://twitter.com/"
-      params:
-        icon: x-twitter
 
 params:
   navbar:
@@ -49,8 +44,4 @@ params:
 
   footer:
     displayCopyright: false
-    displayPoweredBy: true
-
-  editURL:
-    enable: true
-    base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+    displayPoweredBy: false
